@@ -6,6 +6,9 @@ I am Anshul Geed from Walchand College of Engineering, Sangli batch 2025 and the
 By using these link you can directly run it on your device for the first time it will take around 15 sec. and will run smoothly from the second time.
 Link : https://ninja2205.github.io/Anshul_Walchand_Assessment/
 
+# Open 
+You can open the project by directly running the index.html file.
+
 # Section of page
 # 1) Welcome Section
 
