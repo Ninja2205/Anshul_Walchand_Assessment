@@ -2,8 +2,14 @@
 
 I am Anshul Geed from Walchand College of Engineering, Sangli batch 2025 and these is my assessment project for the Maersk. This is one of my dream company, I am looking forward to be the part of these Maersk Community. You can access my assessment from the folder and can also access it through the link which I provided below.
 
+# Preview
+
+https://github.com/Ninja2205/Anshul_Walchand_Assessment/assets/107794392/9885317c-8714-4932-a935-edac93b4985a
+
 # Link
 By using these link you can directly run it on your device for the first time it will take around 15 sec. and will run smoothly from the second time.
+
+*first time it will take around 30 sec for loading*
 Link : https://ninja2205.github.io/Anshul_Walchand_Assessment/
 
 # Open 
